@@ -1,4 +1,4 @@
-#YouTube UI Clone 🎬
+YouTube UI Clone 🎬
 
 A fully responsive YouTube home page interface built using modern HTML and CSS practices. This project focuses on replicating the layout, styling, and interactivity of the YouTube web platform, showcasing advanced CSS techniques like Flexbox and CSS Grid.
 
